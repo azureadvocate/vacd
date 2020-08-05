@@ -40,6 +40,6 @@ Deploy ASP.NET Core to Docker using Azure with demos
 
 Share the experience of Microsoft LUIS BOT in the enterprise
 
-- 语言理解 (LUIS) 文档](https://docs.microsoft.com/zh-cn/azure/cognitive-services/luis/?WT.mc_id=vacd_cn-events-xinglzhu)
+- [语言理解 (LUIS) 文档](https://docs.microsoft.com/zh-cn/azure/cognitive-services/luis/?WT.mc_id=vacd_cn-events-xinglzhu)
 
 
